@@ -1,0 +1,1 @@
+select marc_any_match('909a','^(ebbs|ejbs|esbs|ebA278|ejA278|enA332|ebA342|ejA342|ofA342|ejA351|edbs|AFREEPF|edbe|ejbe|esbe|ebbe|BFREEPF|ofB517|ejB432|ebB432|ejB437|ejB418|ebB418|ejB433|ebB433)$')

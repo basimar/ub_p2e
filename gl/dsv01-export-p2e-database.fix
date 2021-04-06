@@ -1,0 +1,1 @@
+select marc_any_match('909a','^(odbs|odA342|odA351|AFREEDB|odbe|BFREEDB|odB437|odB433|verwaltung-.*)$')

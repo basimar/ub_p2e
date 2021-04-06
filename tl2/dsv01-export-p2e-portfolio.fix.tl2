@@ -1,0 +1,3 @@
+if marc_any_match('909a','^(edbs|ejA351|ejA278|ejA342|ejA166|ebA278|ebA342|enA332)$') or marc_any_match('909f','^(eb-eebo-bs|eb-ecco-bs|eb-momw-bs)$')
+  select()
+end

@@ -1,0 +1,3 @@
+select marc_any_match('909f','(SachdokDigi|FuVdokDigi)')
+reject marc_any_match('655a','(Zeitschrift)')
+reject marc_any_match('655a','(Monografische Reihe)')
